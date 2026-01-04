@@ -23,14 +23,14 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "foto_perfil.jpeg"
+  name             : " Irene Mancebo-Laguna"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Universidad Carlos III de Madrid"
+  employer         : "PhD Student at Universidad Carlos III de Madrid"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "imancebo@pa.uc3m.es" 
 
   # Academic websites
   academia         : # URL
