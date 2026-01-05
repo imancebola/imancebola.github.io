@@ -24,7 +24,7 @@ repository               : "imancebola/imancebola.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : " Irene Mancebo-Laguna"
+  name             : 
   pronouns         : "she/her" # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Universidad Carlos III de Madrid"
