@@ -23,9 +23,9 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "irene_profile.jpeg"
+  avatar           : "profileIML.png"
   name             : " Irene Mancebo-Laguna"
-  pronouns         : # example: "she/her"  
+  pronouns         : "she/her" # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Universidad Carlos III de Madrid"
   employer         : "PhD Student at Universidad Carlos III de Madrid"
