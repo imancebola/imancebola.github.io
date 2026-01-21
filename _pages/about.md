@@ -9,8 +9,10 @@ redirect_from:
 <h2>Irene Mnacebo-Laguna</h2>
 
 <p>
-<strong>PhD Student</strong> at <a href="https://www.uc3m.es" target="_blank"> Universidad Carlos III de Madrid (UC3M)</a> Bioengineering Department – Biomedical Science and Engineering Laboratory
-  <a href="https://bsel.uc3m.es/" target="_blank">(BSEL)</a>Leganés, Madrid, Spain
+<strong>PhD Student</strong> at <a href="https://www.uc3m.es" target="_blank"> Universidad Carlos III de Madrid (UC3M)</a> 
+  
+  Bioengineering Department – Biomedical Science and Engineering Laboratory
+  <a href="https://bsel.uc3m.es/" target="_blank">(BSEL)</a>, Leganés, Madrid, Spain
 </p>
 
 <h3>About</h3>
