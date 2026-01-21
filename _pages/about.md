@@ -33,6 +33,4 @@ solutions with real impact on clinical practice and medical research.
 
 <p>
 Beyond research, I am passionate about technology, innovation, and social engagement. 
-I actively volunteer at <strong>ESN URJC</strong> and participate in the 
-<strong>university choir</strong>.
 </p>
