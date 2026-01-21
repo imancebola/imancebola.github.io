@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<h2>Irene Mnacebo-Laguna</h2>
+<h2>Irene Mancebo-Laguna</h2>
 
 <p>
 <strong>PhD Student</strong> at 
@@ -17,7 +17,7 @@ Biomedical Science and Engineering Laboratory
 Leganés, Madrid, Spain
 </p>
 
-<h3>About</h3>
+<h2>About</h2>
 
 <p>
 I am a PhD student at <strong>Universidad Carlos III de Madrid</strong>, specializing in 
