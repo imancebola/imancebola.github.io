@@ -1,8 +1,8 @@
 ---
 title: "Paper Title Number 1"
-collection: conference
-category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
+collection: publications
+category: conferences
+permalink: https://caseib.es/2025/programa/
 excerpt: 'Automatic segmentation of 3D
 Left Atrial Meshes in Atrial Fibrillation.'
 date: 2025
